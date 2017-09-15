@@ -112,3 +112,5 @@ Async
 	})
 
 Deferred(Jquery)
+
+（待续...）
